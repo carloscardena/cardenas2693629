@@ -1,6 +1,6 @@
 #Con el contador se añade un numero inicial y hay que incrementarlo.
 #En este ejercicio se suma saca el promedio y ver cual es mayor o menor.
-#
+#Cuando el usuario quiera terminar el siglo solo tiene que digitar 0 y asi acabara el ciclo
 num=1
 cont=0
 sum=0
